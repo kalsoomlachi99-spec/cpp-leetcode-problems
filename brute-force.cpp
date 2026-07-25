@@ -7,6 +7,8 @@ int main() {
     (product of all elements of an array except of the index which value has to be calculated) 
     -> Brute Force Approach */
 
+    // leetcode problem 238
+
     vector <int> nums = {1, 2, 3, 4};
     int n = nums.size();
     vector <int> ans(n , 1);
