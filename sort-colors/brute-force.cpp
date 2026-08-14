@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     
     /*Sort Array with 0s, 1s & 2s*/
-    /*leetcode problem 35 : Sort colors */
+    /*leetcode problem 75 : Sort colors */
     // Brute force approach : TC = O(nlogn) , SC = O(1)
 
 
